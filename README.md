@@ -59,6 +59,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ## 📬 Connect with Me
 📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sparshguha75](https://www.linkedin.com/in/sparshguha75/)  
-🌐 **Portfolio:** [Work-In-Progress](#)
+🌐 **Portfolio:** Work-In-Progress
 
 ---
