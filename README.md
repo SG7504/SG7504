@@ -35,7 +35,7 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ---
 
 ## 🚀 Projects
-- **🔍 Capture Packets (Wireshark):** Analyzed and captured network traffic.
+- **🔍 Network Traffic Analyzer (Wireshark):** Analyzed and captured network traffic.
 - **🔑 Password Checker (Python):** Tool to assess password strength and security.
 - **🚆 Railway Booking (Java):** Developed a Java Swing-based booking interface.
 - **📝 Offline Subtitle Translator (AI/ML):** Translated and saved video subtitles offline.
