@@ -45,6 +45,8 @@ A self-driven university student passionate about **Software Engineering, AI, an
 - 📌 **Google Cyber Security Specialization** (Coursera)
 - 📌 **DSA with Java** (Apna College)
 - 📌 **Job Simulations:** JPMorgan Chase & Co., Tata Data Visualization
+- 📌 **ISC2 Cybersecurity Certification**
+- 📌 **JPMorgan Chase & Co. - Cybersecurity Job Simulation**
 
 ---
 
@@ -63,11 +65,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ## 📬 Connect with Me
 📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sparshguha75](https://www.linkedin.com/in/sparshguha75/)  
+🌐 **Portfolio:** [YourPortfolioWebsite.com](#)
 
 ---
-
-## 📞 Contact Details
-📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
-
----
-
