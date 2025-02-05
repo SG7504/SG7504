@@ -50,12 +50,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 
 ---
 
-## 💼 Experience
-- 🛡️ **Cyber Security Team Member:** KIIT Electrical Society, GeeksForGeeks KIIT, Coding Ninjas KIIT.
-- 💻 **Rookie Developer Intern:** Timechain Labs (Jun '24 - Aug '24).
-
----
-
 ## 🎓 Education
 🎓 **KIIT University, Bhubaneswar**  
 📅 **B.Tech in Computer Science & Engineering (2022 - 2026)**
@@ -65,6 +59,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ## 📬 Connect with Me
 📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sparshguha75](https://www.linkedin.com/in/sparshguha75/)  
-🌐 **Portfolio:** [YourPortfolioWebsite.com](#)
+🌐 **Portfolio:** [Work-In-Progress](#)
 
 ---
