@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+![Banner](your-banner-image-url)
+
 # Hi! I'm **Sparsh Guha**
 A self-driven university student passionate about **Software Engineering, AI, and Cybersecurity**.
 
@@ -11,6 +13,9 @@ A self-driven university student passionate about **Software Engineering, AI, an
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,9 +28,9 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ## 📌 About Me
 - 🎯 **Objective:** Seeking opportunities in **Software Engineering**.
 - 🏆 **Achievements:**  
-  - 🥈 **Runner-up:** Bug Buster (Synchronize 2.0) - Outperformed **27 teams**.
+  - 🥈 **Runner-up:** Bug Buster (Synchronize 2.0) - Outperformed **25+ teams**.
   - 📜 **Certificate of Distinction:** Green Olympiad (GO4 Youth).
-  - 🥈 **Runner-up:** Hyperthon (GFG-KIIT) - Outperformed **55 teams**.
+  - 🥈 **Runner-up:** Hyperthon (GFG-KIIT) - Outperformed **55+ teams**.
 - 🌱 **Skills:** Problem-Solving, AI, Cybersecurity, Software Development.
 
 ---
@@ -66,7 +71,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 
 ## 📞 Contact Details
 📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
-📱 **Mobile:** [+91 XXXXXXXXXX](#)
 
 ---
 
