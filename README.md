@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-![Banner](your-banner-image-url)
-
 # Hi! I'm **Sparsh Guha**
 A self-driven university student passionate about **Software Engineering, AI, and Cybersecurity**.
 
@@ -65,7 +63,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 ## 📬 Connect with Me
 📧 **Email:** [sparshguha7504@gmail.com](mailto:sparshguha7504@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sparshguha75](https://www.linkedin.com/in/sparshguha75/)  
-🌐 **Portfolio:** [YourPortfolioWebsite.com](#)
 
 ---
 
