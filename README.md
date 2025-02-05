@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Banner](your-banner-image-url)
-
 # Hi! I am **Sparsh Guha**
 A self-driven university student skilled in problem-solving, AI, and Cybersecurity, seeking opportunities in Software Engineering.
 
