@@ -29,7 +29,8 @@ A self-driven university student passionate about **Software Engineering, AI, an
   - 🥈 **Runner-up:** Bug Buster (Synchronize 2.0) - Outperformed **25+ teams**.
   - 📜 **Certificate of Distinction:** Green Olympiad (GO4 Youth).
   - 🥈 **Runner-up:** Hyperthon (GFG-KIIT) - Outperformed **55+ teams**.
-- 🌱 **Skills:** Problem-Solving, AI, Cybersecurity, Software Development.
+- 🌱 Skills: Java, Python, SQL, MySQL, AI/ML, Git, Network Security, Data Structures, MongoDB.
+- 🌟 Soft Skills: Problem-solving, Communication, Collaboration, Teamwork, Adaptability, Eagerness to Learn.
 
 ---
 
