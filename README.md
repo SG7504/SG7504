@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-# Hi! I'm **Sparsh Guha**
+# I'm **Sparsh Guha**
 A self-driven university student passionate about **Software Engineering, AI, and Cybersecurity**.
 
 ---
