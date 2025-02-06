@@ -42,15 +42,6 @@ A self-driven university student passionate about **Software Engineering, AI, an
 
 ---
 
-## 📜 Certifications
-- 📌 **Google Cyber Security Specialization** (Coursera)
-- 📌 **DSA with Java** (Apna College)
-- 📌 **Job Simulations:** JPMorgan Chase & Co., Tata Data Visualization
-- 📌 **ISC2 Cybersecurity Certification**
-- 📌 **JPMorgan Chase & Co. - Cybersecurity Job Simulation**
-
----
-
 ## 🎓 Education
 🎓 **KIIT University, Bhubaneswar**  
 📅 **B.Tech in Computer Science & Engineering (2022 - 2026)**
