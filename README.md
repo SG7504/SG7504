@@ -1,96 +1,96 @@
-👋 Hi, I’m Sparsh Guha
+# 👋 Hi, I’m Sparsh Guha
 
-Backend Engineer · Python / FastAPI · ML Systems on AWS
+**Backend Engineer · Python / FastAPI · ML Systems on AWS**
 
-🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India
-📧 sparshguha4057@gmail.com
- · 🔗 LinkedIn · 🌐 Portfolio
-
-<br/>
-🚀 About Me
-
-Backend-focused engineer building production-ready systems
-
-Strong CS fundamentals with emphasis on APIs, cloud, and automation
-
-Experience deploying ML-backed services on AWS
-
-Comfortable debugging using logs, metrics, and real data
-
-<br/>
-💼 Experience
-
-🤖 AI Data & Quality Assurance Engineer (Freelance)
-Soul AI (Deccan AI) · Nov 2025 – Present
-
-Project Bluebird (RLHF-style model evaluation)
-
-Reviewed production LLM outputs for hallucinations & safety risks
-
-Applied structured evaluation rubrics to improve model quality
-
-<br/>
-💡 Featured Projects
-
-🛡️ Real-Time Fraud Detection System
-Python · FastAPI · AWS EC2 · S3 · XGBoost
-
-Deployed a REST API handling concurrent fraud checks
-
-Stored datasets (10–20 MB) using AWS S3
-
-Achieved ROC-AUC: 0.9458 without compromising latency
+🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India  
+📧 sparshguha4057@gmail.com · 🔗 LinkedIn · 🌐 Portfolio  
 
 <br/>
 
-🐉 Dragon’s Vault — Automation Bot
-Python · Flask · Discord API
+## 🚀 About Me
 
-Built RBAC-based automation for secure ticket workflows
-
-Automated 50+ requests/month, reducing manual work by ~30%
-
-Developed admin endpoints for faster approvals
+- Backend-focused engineer building **production-ready systems**
+- Strong CS fundamentals with emphasis on **APIs, cloud, and automation**
+- Experience deploying **ML-backed services on AWS**
+- Comfortable debugging with logs, metrics, and real data
 
 <br/>
 
-🎬 Offline Subtitle Translator
-Python · Automation
+## 💼 Experience
 
-Batch pipeline translating 200–300 lines/min
+**🤖 AI Data & Quality Assurance Engineer (Freelance)**  
+*Soul AI (Deccan AI) · Nov 2025 – Present*
 
-Reduced manual effort by ~60%
-
-Designed for offline / limited-connectivity use
-
-<br/>
-🛠️ Tech Stack
-
-💻 Languages
-🐍 Python · ☕ Java · 🗄 SQL
-
-⚙️ Backend
-⚡ FastAPI · Flask · REST APIs · Auth · Routing
-
-☁️ Cloud & DevOps
-☁️ AWS (EC2, S3) · 🐳 Docker · 🐧 Linux
-
-🗃 Databases
-🛢 PostgreSQL · MySQL · SQLite
-
-🔧 Tools
-🔀 Git & GitHub · 📮 Postman · 🧠 VS Code
-
-📚 CS Fundamentals
-🧩 DSA · OOP · OS · DBMS · Computer Networks
+- Project Bluebird (RLHF-style model evaluation)
+- Reviewed production LLM outputs for hallucinations & safety risks
+- Applied structured evaluation rubrics to improve model quality
 
 <br/>
-🏆 Achievements
 
-🥈 Runner-Up — Hyperthon (GFG KIIT) · 2025
+## 💡 Featured Projects
 
-🥈 Runner-Up — Bug Buster (Synchronize 2.0) · 2024
+**🛡️ Real-Time Fraud Detection System**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=white)
 
-🏅 ‘O’ Grade (Outstanding) — AICTE Cloud & ML Internship
+- Deployed REST API handling concurrent fraud checks
+- Stored datasets (10–20 MB) using AWS S3
+- Achieved **ROC-AUC: 0.9458** without compromising latency
 
-🤝 Open-Source Contributor — GSSoC 2024
+<br/>
+
+**🐉 Dragon’s Vault — Automation Bot**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
+
+- RBAC-based automation for secure ticket workflows
+- Automated **50+ requests/month**, reducing manual work by ~30%
+- Built admin endpoints for faster approvals
+
+<br/>
+
+**🎬 Offline Subtitle Translator**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
+
+- Batch pipeline translating **200–300 lines/min**
+- Reduced manual effort by ~60%
+- Designed for offline / low-connectivity environments
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=white)
+
+**Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0d1117?style=flat)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=white)
+
+**Databases**  
+![Postgres](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat&logo=sqlite&logoColor=white)
+
+<br/>
+
+## 🏆 Achievements
+
+- 🥈 Runner-Up — **Hyperthon** (GFG KIIT) · 2025
+- 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024
+- 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship
+- 🤝 Open Source Contributor — **GSSoC 2024**
+
+<br/>
+
+## ⚡ Fun Fact
+If I do something more than twice, I’ll probably automate it.
