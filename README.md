@@ -89,8 +89,3 @@
 - 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024
 - 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship
 - 🤝 Open Source Contributor — **GSSoC 2024**
-
-<br/>
-
-## ⚡ Fun Fact
-If I do something more than twice, I’ll probably automate it.
