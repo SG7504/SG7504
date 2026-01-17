@@ -89,8 +89,3 @@ Data Structures · Algorithms · OOP · OS · DBMS · Computer Networks
 - 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024  
 - 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship  
 - 🤝 Open Source Contributor — **GirlScript Summer of Code (GSSoC) 2024**
-
-<br/>
-
-## ⚡ Fun Fact
-If I have to do something more than twice, I’ll probably automate it.
