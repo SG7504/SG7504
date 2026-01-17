@@ -94,5 +94,3 @@ Designed for offline / limited-connectivity use
 🏅 ‘O’ Grade (Outstanding) — AICTE Cloud & ML Internship
 
 🤝 Open-Source Contributor — GSSoC 2024
-
-<br/>
