@@ -1,9 +1,11 @@
-# 👋 Hi, I’m Sparsh Guha
+# 👋 Hi, I’m Sparsh Guha  
 
 **Backend Engineer · Python / FastAPI · ML Systems on AWS**
 
 🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India  
-📧 sparshguha4057@gmail.com · 🔗 LinkedIn · 🌐 Portfolio  
+📧 sparshguha4057@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sparshguha75  
+🌐 Portfolio: https://sg7504.github.io/Portfolio/
 
 <br/>
 
@@ -18,10 +20,10 @@
 
 ## 💼 Experience
 
-**🤖 AI Data & Quality Assurance Engineer (Freelance)**  
-*Soul AI (Deccan AI) · Nov 2025 – Present*
+### 🤖 AI Data & Quality Assurance Engineer (Freelance)  
+**Soul AI (Deccan AI)** · Nov 2025 – Present
 
-- Project Bluebird (RLHF-style model evaluation)
+- Selected for *Project Bluebird* (RLHF-style model evaluation)
 - Reviewed production LLM outputs for hallucinations & safety risks
 - Applied structured evaluation rubrics to improve model quality
 
@@ -29,10 +31,13 @@
 
 ## 💡 Featured Projects
 
-**🛡️ Real-Time Fraud Detection System**  
+### 🛡️ Real-Time Fraud Detection System  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=white)
+
+🔗 **Repo:** https://github.com/SG7504/fraud-detection-system  
+🔗 **API Docs / Demo:** https://<your-ec2-ip-or-domain>/docs
 
 - Deployed REST API handling concurrent fraud checks
 - Stored datasets (10–20 MB) using AWS S3
@@ -40,9 +45,12 @@
 
 <br/>
 
-**🐉 Dragon’s Vault — Automation Bot**  
+### 🐉 Dragon’s Vault — Automation Bot  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
+
+🔗 **Repo:** https://github.com/SG7504/dragons-vault  
+🔗 **Demo:** https://discord.gg/<invite-link> *(if public)*
 
 - RBAC-based automation for secure ticket workflows
 - Automated **50+ requests/month**, reducing manual work by ~30%
@@ -50,8 +58,10 @@
 
 <br/>
 
-**🎬 Offline Subtitle Translator**  
+### 🎬 Offline Subtitle Translator  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
+
+🔗 **Repo:** https://github.com/SG7504/offline-subtitle-translator  
 
 - Batch pipeline translating **200–300 lines/min**
 - Reduced manual effort by ~60%
@@ -77,7 +87,7 @@
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=white)
 
 **Databases**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat&logo=sqlite&logoColor=white)
 
@@ -85,7 +95,7 @@
 
 ## 🏆 Achievements
 
-- 🥈 Runner-Up — **Hyperthon** (GFG KIIT) · 2025
-- 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024
-- 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship
+- 🥈 Runner-Up — **Hyperthon** (GFG KIIT) · 2025  
+- 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024  
+- 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship  
 - 🤝 Open Source Contributor — **GSSoC 2024**
