@@ -1,56 +1,89 @@
-# 👋 Hey, I'm Sparsh Guha
+👋 Hi, I’m Sparsh Guha
 
-🚀 *Cybersecurity | Blockchain | AI/ML | Code that actually matters*  
-🎓 KIIT'26 · CSE · Kolkata, India  
-📧 sparshguha4057@gmail.com | [LinkedIn](https://www.linkedin.com/in/sparshguha75)  
-🌐 [Portfolio Website](https://sg7504.github.io/Portfolio/)
+Backend Engineer (Python / FastAPI) · Deployed ML Systems on AWS
 
----
+🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India
 
-## 🏆 Highlights
+📧 sparshguha4057@gmail.com | 🔗 LinkedIn | 🌐 Portfolio
 
-- 🥈 **Runner-Up** – Bug Buster (Synchronize 2.0)
-- 🥈 **Runner-Up** – Hyperthon
-- 🔒 **JPMorgan** Cybersecurity Simulation Graduate
-- 🤝 Contributor @ **GirlScript Summer of Code**
-- 📊 Tata Group Certified in **Data Visualization**
-- 🎖 Certificate of Distinction for excellence in GO4
+🚀 About Me
 
----
+I’m a backend-focused engineer who enjoys building systems that actually run in production. My work centers around designing APIs, deploying cloud-based services, and improving reliability through automation.
 
-## 💡 Featured Projects
+Backend-First Mindset: Strong CS fundamentals with a focus on scalable architecture.
 
-### 🧠 ML Inference API (FastAPI)
-Lightweight ML backend built using FastAPI for real-time model prediction. Containerized with Docker and designed for quick deployment.
+Cloud Native: Experience deploying ML-backed services on AWS EC2 and S3.
 
-### 🐉 Dragon’s Vault – Discord Bot
-A multi-functional Discord bot built with moderation, economy, and game features. Includes role management, reaction handling, and bot commands in Python.
+Current Status: Final-year student available to join immediately (No active classes).
 
-### 🔍 Fraud Detector - Integrated with EC2
-A rule-based and ML-enhanced fraud detection system to classify suspicious activity. Developed as a proof of concept for fintech use-cases.
+💼 Experience
 
-### 🎬 Offline Subtitle Generator
-Command-line tool that uses speech-to-text to auto-generate `.srt` subtitle files from offline video/audio files using Python and open-source libraries.
+🤖 AI Data & Quality Assurance Engineer (Freelance)
 
-### 🧠 EEG Signal Analyzer *(Academic Project)*
-Signal processing tool for EEG data visualization and pattern recognition. Explored noise filtering and wave band analysis in biomedical datasets.
+Soul AI (Deccan AI) | Nov 2025 – Present
 
-> ⚠️ Some of these are still in local dev or private – open-sourcing soon!
+Selected for "Project Bluebird" to perform high-accuracy model evaluation and alignment (RLHF).
 
----
+Evaluated production LLM outputs to identify logical inconsistencies, hallucinations, and safety risks.
 
-## 🧠 Core Skills
+Applied structured evaluation rubrics to support internal model improvement cycles.
 
-### 💬 Programming & Markup
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+💡 Featured Projects
+
+🛡️ Real-Time Fraud Detection System
+
+Python · FastAPI · AWS EC2 · S3 · XGBoost
+
+Deployed a REST API on AWS EC2 to handle concurrent fraud validation requests.
+
+Implemented scalable dataset storage using AWS S3 (10–20 MB datasets).
+
+Optimized ML models to achieve ROC-AUC of 0.9458, improving detection accuracy without compromising speed.
+
+🐉 Dragon’s Vault – Automation Bot
+
+Python · Flask · Discord API
+
+Built an automation bot with Role-Based Access Control (RBAC) to manage secure ticketing workflows.
+
+Automated 50+ requests per month, reducing moderator workload by ~30%.
+
+Developed admin endpoints to streamline approvals and workflow handling.
+
+🎬 Offline Subtitle Translator
+
+Python · Automation · Google APIs
+
+Engineered a batch-processing pipeline capable of translating 200–300 subtitle lines per minute.
+
+Reduced multi-step manual effort by ~60% through automation.
+
+Designed to function reliably in offline or limited-connectivity environments.
+
+🛠️ Core Tech Stack
+
+Domain
+
+Technologies
+
+Languages
 
 
 
-> **🌐 Check out my [Portfolio Website](https://sg7504.github.io/Portfolio/) for more!**
+Backend
 
+
+
+Cloud & DevOps
+
+
+
+🏆 Achievements
+
+🥈 Runner-Up — Hyperthon (GFG KIIT) · Jan 2025
+
+🥈 Runner-Up — Bug Buster (Synchronize 2.0) · Feb 2024
+
+🏅 ‘O’ Grade (Outstanding) — AICTE Cloud & ML Internship (Verified via Transcript)
+
+🤝 Open Source Contributor — GirlScript Summer of Code (GSSoC) 2024
