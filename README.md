@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sparsh Guha
 
-**Backend Engineer · Python / FastAPI · ML Systems on AWS**
+**🧩 Backend Engineer · 🐍 Python / FastAPI · ☁️ ML Systems on AWS**
 
 🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India  
 📧 sparshguha4057@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sparshguha75) · 🌐 [Portfolio](https://sg7504.github.io/Portfolio/)
@@ -9,12 +9,10 @@
 
 ## 🚀 About Me
 
-I’m a backend-focused engineer who enjoys building systems that run reliably in production.  
-My work centers around **API design, cloud deployment, automation**, and **data-driven debugging**.
-
-- Backend-first mindset with strong CS fundamentals  
-- Experience deploying **ML-backed services on AWS**  
-- Comfortable working with logs, metrics, and real production constraints  
+- 🧠 Backend-focused engineer building **production-ready systems**
+- ⚙️ Strong CS fundamentals with emphasis on **APIs, cloud, and automation**
+- ☁️ Experience deploying **ML-backed services on AWS**
+- 🔍 Comfortable debugging using logs, metrics, and real production data
 
 <br/>
 
@@ -23,63 +21,63 @@ My work centers around **API design, cloud deployment, automation**, and **data-
 ### 🤖 AI Data & Quality Assurance Engineer (Freelance)  
 **Soul AI (Deccan AI)** · Nov 2025 – Present
 
-- Selected for *Project Bluebird* (RLHF-style model evaluation workflows)  
-- Evaluated production LLM outputs for logical inconsistencies, hallucinations, and safety risks  
-- Applied structured evaluation rubrics and documented recurring error patterns to support model improvement  
+- 🧪 Selected for *Project Bluebird* (RLHF-style model evaluation workflows)
+- 🔎 Evaluated production LLM outputs for hallucinations & safety risks
+- 📝 Documented recurring error patterns to support model improvement cycles
 
 <br/>
 
 ## 💡 Featured Projects
 
 ### 🛡️ Real-Time Fraud Detection System  
-*Python · FastAPI · AWS EC2 · S3 · XGBoost*  
-**Links:** [Repository](https://github.com/SG7504/Fraud-Detection-System-with-AWS) 
+*🐍 Python · ⚡ FastAPI · ☁️ AWS EC2 · 🗂️ S3 · 📊 XGBoost*  
+🔗 **Repo:** [Fraud Detection System](https://github.com/SG7504/Fraud-Detection-System-with-AWS)
 
-- Designed and deployed a REST API handling concurrent fraud validation requests  
-- Implemented scalable dataset storage using AWS S3 (10–20 MB datasets)  
-- Improved model performance to achieve **ROC-AUC of 0.9458** without compromising latency or data integrity  
+- 🚀 Designed and deployed REST APIs for concurrent fraud validation
+- 🗂️ Implemented scalable storage using AWS S3 (10–20 MB datasets)
+- 📈 Optimized models to achieve **ROC-AUC: 0.9458** without latency trade-offs
 
 <br/>
 
 ### 🐉 Dragon’s Vault — Automation Bot  
-*Python · Flask · Discord API*  
-**Links:** [Repository](https://github.com/SG7504/Discord-Bot-DV)
+*🐍 Python · 🌐 Flask · 🤖 Discord API*  
+🔗 **Repo:** [Dragon’s Vault](https://github.com/SG7504/Discord-Bot-DV)
 
-- Built an automation bot with **role-based access control (RBAC)** for secure ticketing workflows  
-- Automated **50+ requests/month**, reducing moderator workload by ~30%  
-- Developed admin endpoints to streamline approvals and workflow handling  
+- 🔐 Built RBAC-based automation for secure ticket workflows
+- ⚡ Automated **50+ requests/month**, reducing manual effort by ~30%
+- 🛠️ Developed admin endpoints for streamlined approvals
 
 <br/>
 
-### 🎬 Speech to Text Offline Subtitle Translator  
-*Python · Automation*  
-**Links:** [Repository](https://github.com/SG7504/Speech-To-Text-Offline-Subtitle-Generator)
+### 🎬 Speech-to-Text Offline Subtitle Translator  
+*🐍 Python · ⚙️ Automation*  
+🔗 **Repo:** [Offline Subtitle Translator](https://github.com/SG7504/Speech-To-Text-Offline-Subtitle-Generator)
 
-- Engineered a batch-processing pipeline translating **200–300 subtitle lines per minute**  
-- Reduced multi-step manual effort by ~60% through automation  
-- Designed to function reliably in offline or limited-connectivity environments  
+- 🔁 Engineered batch pipeline translating **200–300 lines/min**
+- ⏱️ Reduced multi-step manual effort by ~60%
+- 🌐 Designed for offline / low-connectivity environments
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python · Java · SQL  
+### 💻 Languages  
+🐍 Python · ☕ Java · 🗄️ SQL  
 
-**Backend**  
-FastAPI · Flask · REST APIs · Authentication · Routing  
+### ⚙️ Backend  
+⚡ FastAPI · Flask · 🔁 REST APIs · 🔐 Authentication · 🧭 Routing  
 
-**Cloud & DevOps**  
-AWS (EC2, S3) · Docker · Linux  
+### ☁️ Cloud & DevOps  
+☁️ AWS (EC2, S3) · 🐳 Docker · 🐧 Linux  
 
-**Databases**  
-PostgreSQL · MySQL · SQLite  
+### 🗃️ Databases  
+🛢️ PostgreSQL · MySQL · SQLite  
 
-**Tools**  
-Git & GitHub · Postman · VS Code  
+### 🔧 Tools  
+🔀 Git & GitHub · 📮 Postman · 🧠 VS Code  
 
-**CS Fundamentals**  
-Data Structures · Algorithms · OOP · OS · DBMS · Computer Networks  
+### 📚 CS Fundamentals  
+🧩 DSA · OOP · OS · DBMS · Computer Networks  
 
 <br/>
 
@@ -88,4 +86,4 @@ Data Structures · Algorithms · OOP · OS · DBMS · Computer Networks
 - 🥈 Runner-Up — **Hyperthon** (GFG KIIT) · 2025  
 - 🥈 Runner-Up — **Bug Buster** (Synchronize 2.0) · 2024  
 - 🏅 **‘O’ Grade (Outstanding)** — AICTE Cloud & ML Internship  
-- 🤝 Open Source Contributor — **GirlScript Summer of Code (GSSoC) 2024**
+- 🤝 Open Source Contributor — **GSSoC 2024**
