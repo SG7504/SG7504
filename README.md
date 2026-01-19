@@ -3,7 +3,7 @@
 **🧩 Backend Engineer · 🐍 Python / FastAPI · ☁️ ML Systems on AWS**
 
 🎓 B.Tech CSE, KIIT University (2026) · 📍 Kolkata, India  
-📧 sparshguha4057@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sparshguha75) · 🌐 [Portfolio](https://sg7504.github.io/Portfolio/)
+📧 sparshguha4057@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sparshguha75) · 🌐 [Portfolio](https://sg7504.github.io/Portfolio/) (Update in Progress)
 
 <br/>
 
